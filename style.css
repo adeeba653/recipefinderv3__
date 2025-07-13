@@ -37,7 +37,7 @@ footer {
   overflow: hidden;
 }
 
-.mail-btn {
+.mail-btn, .search-btn {
   background-color: #232120;
 }
 
